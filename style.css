@@ -1,0 +1,38 @@
+*{
+    background: white;
+    color: black;
+}
+
+p{
+    font-size: 35px;;
+    color: black;
+}
+
+input{
+    font-size: 35px;
+    background: #b4d2f1;
+    border: #ada9a3;
+}
+h2{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    display: flex;
+    justify-content:center;
+    color: black;
+}
+
+h1{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black; 
+}
+
+button{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    border: medium none;
+    color:black;
+    background: #b4d2f1;
+    
+}
